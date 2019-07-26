@@ -21,6 +21,7 @@ This Portfolio contains diverse projects in Data Science completed both in the a
 
   ### 4. Data Analysis and NLP
   - [brazilian-e-commerce](https://github.com/Mortiniera/brazilian-e-commerce) : Data-driven strategic analysis of Olist, brazilian E-commerce platform. 
-    - [Fake News](https://github.com/Mortiniera/Fake_News) : Fake News : An average Citizen's guide
+   
+  - [Fake News](https://github.com/Mortiniera/Fake_News) : Fake News : An average Citizen's guide
 
 
