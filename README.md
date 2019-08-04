@@ -20,6 +20,8 @@ This Portfolio contains diverse projects in Data Science completed both in the a
   - [Robust-Journey Planner]( https://github.com/Mortiniera/Robust_Journey_Planning) :  Public transport route planner based on CSA
 
   ### 4. Data Analysis and NLP
+   - [Telco Customer Churn Problem](https://github.com/Mortiniera/Data_Science_Portfolio/blob/master/Data%20Analysis%20Series/Fighting%20_Churn/Telco_Customer_Retention.ipynb) : Data analysis and Machine Learning to solve Telco customer churn. 
+   
   - [brazilian-e-commerce](https://github.com/Mortiniera/brazilian-e-commerce) : Data-driven strategic analysis of Olist, brazilian E-commerce platform. 
    
   - [Fake News](https://github.com/Mortiniera/Fake_News) : Fake News : An average Citizen's guide
