@@ -10,7 +10,7 @@ This Portfolio contains diverse projects in Data Science completed both in the a
 
 
   ### 2. Deep Learning
-  To be continued.
+   - [Image Classification](https://github.com/Mortiniera/Data_Science_Portfolio/blob/master/image_classification.ipynb) : Transfer learning using InceptionV3 module for 3-class image classification in tensorflow/keras.
   
   ### 3. Systems, Databases and Data-Parallel Programming
   - [hogwild-spark](https://github.com/Mortiniera/hogwild-spark) : Parallel synchronous and asynchronous versions of SGD in Spark on Kubernetes for learning support-vector machines.
