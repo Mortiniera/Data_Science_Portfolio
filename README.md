@@ -8,6 +8,10 @@ This Portfolio contains diverse projects in Data Science completed both in the a
    
   - [Boston Houses](https://github.com/Mortiniera/Data_Science_Portfolio/blob/master/Machine%20Learning%20Series/Boston_houses_Linear_Regression.ipynb) : Linear regression tutorial comparing from scratch numpy/pandas implementation against scikit-learn to predict the best price that a client can sell his house. [Blog article](https://medium.com/@thevie/predicting-boston-housing-prices-step-by-step-linear-regression-tutorial-from-scratch-in-python-c50a09b70b22)
   
+  - [Higgs Boson Prediction](https://github.com/Mortiniera/higgs_boson_prediction) : Predict if a signature results from a Higgs Boson (signal) or some other process (background). All ML models are implementended from scratch using only Numpy.
+  
+  
+  
   - [tweet Sentiment Classification](https://github.com/Mortiniera/Tweet_Sentiment_Analysis) : Positive/Negative sentiment analysis classification of tweets using traditional machine learning techniques.
 
 
