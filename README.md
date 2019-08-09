@@ -18,7 +18,7 @@ This Portfolio contains diverse projects in Data Science completed both in the a
   ### 2. Deep Learning
    - [Image Classification](https://github.com/Mortiniera/Data_Science_Portfolio/blob/master/image_classification.ipynb) : Transfer learning using InceptionV3 module for 3-class image classification in tensorflow/keras. [Google Colab notebook](https://colab.research.google.com/drive/1ttNsYjhzlg9k3nC-_sqrHto2JRiNlkrb)
    
-   - [Reinforcement Learning :Lunar Lander](https://github.com/Mortiniera/Data_Science_Portfolio/tree/master/Deep%20Learning%20Series/OpenAI) : Simple implementation of Reinforce Algorithm : Teach an agent to land on the moon using policy gradient. (OpenAI Gym)
+   - [Reinforcement Learning :Lunar Lander](https://github.com/Mortiniera/Data_Science_Portfolio/tree/master/Deep%20Learning%20Series/OpenAI) : Simple implementation of Reinforce Algorithm to teach an agent to land on the moon using policy gradient. (OpenAI Gym)
    
    
   ### 3. Systems, Databases and Data-Parallel Programming
